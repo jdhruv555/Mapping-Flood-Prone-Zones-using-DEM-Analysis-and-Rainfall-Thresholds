@@ -112,11 +112,3 @@ geosatellite/
 - Rainfall data temporal resolution affects results
 - Requires validation with historical flood records
 
-## Contact
-For questions or issues, please contact the project coordinator.
-
----
-**Project Code**: P6  
-**Duration**: 30 Days  
-**Platform**: Online (Google Meet/Zoom + Google Classroom)  
-**Course Coordinator**: Miss. Alisha Sinha
